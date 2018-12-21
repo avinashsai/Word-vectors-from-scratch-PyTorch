@@ -1,1 +1,1 @@
-# Word-vectors-from-scratch-PyTorch-
+# Word-vectors-from-scratch-PyTorch
